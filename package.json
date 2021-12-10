@@ -1,0 +1,13 @@
+{
+  "name": "type-chain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a simple BlockChain with it",
+  "main": "index.js",
+  "repository": "https://github.com/lifeisegg2k/type-chain.git",
+  "author": "lifeisegg <lifeisegg@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
